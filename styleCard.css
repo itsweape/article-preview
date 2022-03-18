@@ -53,15 +53,11 @@ p{
     flex-direction: row;
 }
 .profil-img{
-    display: flex;
-    flex-direction: column;
     width: 40px;
     border-radius: 50%;
     margin-right: 20px;
 }
 .writer{
-    display: flex;
-    flex-direction: column;
     margin-top: 5px;
     color:hsl(217, 19%, 35%);
     letter-spacing: 0.5px;
