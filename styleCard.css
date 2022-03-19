@@ -54,6 +54,7 @@ p{
 }
 .profil-img{
     width: 40px;
+    height: 40px;
     border-radius: 50%;
     margin-right: 20px;
 }
@@ -86,7 +87,7 @@ p{
         margin-bottom: 10px;
     }
 }
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 1080px) {
     .card{
         display: flex;
         flex-direction: row;
