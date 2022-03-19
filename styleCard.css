@@ -102,6 +102,7 @@ p{
     }
     .header{
         font-size: 20px;
+        letter-spacing: 1.2px;
     }
     .content{
         margin: 30px;
